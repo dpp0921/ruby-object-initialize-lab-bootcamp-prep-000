@@ -3,4 +3,5 @@ class Dog
     @name = dog_name
     @breed = dog_breed("Mutt")
   end
+  fido = Dog.new("Fido", "Pug")
 end
